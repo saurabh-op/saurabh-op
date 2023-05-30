@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tripathi</h1>
 <h3 align="center">Coding enthusiast , Android Developer</h3>
 
-<img align ="right" width = 400 alt="coding" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FdevSouvik%2FdevSouvik%2Fmaster%2Fgif3.gif&tbnid=2qrAUXqY9dCUsM&vet=12ahUKEwj9-bup9Jz_AhVK0nMBHbK1DNoQMygBegUIARDqAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2FDD4You&docid=T3cB76EfDxjhnM&w=800&h=600&q=gif%20image%20for%20github%20profile&ved=2ahUKEwj9-bup9Jz_AhVK0nMBHbK1DNoQMygBegUIARDqAQ">
+<img align ="right" width = 400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1WxgidIQ4Ld7c2GCPj8FMU&ust=1685531792022000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjVrbD1nP8CFQAAAAAdAAAAABAP">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-op&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-op" /> </p>
 
