@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tripathi</h1>
-<h3 align="center">Coding enthusiast , Android Developer</h3>
+<h3 align="center">Coding enthusiast , Flutter Developer</h3>
 
 <img align ="right" width = 400 alt="coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
  
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/saurabh_op_" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_op_?logo=twitter&style=for-the-badge" alt="saurabh_op_" /></a> </p>
 
-- 🌱 I’m currently learning **Android Studio , Firebase**
+- 🌱 I’m currently learning **Flutter Application Development, Postman**
 
-- 💬 Ask me about **C++,Kotlin, App Dev**
+- 💬 Ask me about **Flutter , Dart , C++ , Postman **
 
 - 📫 How to reach me **saurabh2002oct13@gmail.com**
 
