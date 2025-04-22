@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tripathi</h1>
-<h3 align="center">Coding enthusiast , Flutter Developer</h3>
+<h3 align="center">Application DEveloper Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-op&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-op" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saurabh_op_" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_op_?logo=twitter&style=for-the-badge" alt="saurabh_op_" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , Postman**
+ ~ Tech Stacks: React, Flutter, Spring Boot, MongoDB, Firebase
+   ~ Languages : C++ ,Dart , Kotlin , Java, JavaScript , Python 
+   ~ Core CS Subject: Operating System, Computer networks, DBMS, Digital Electronics, Data Structures and Algorithms, Computer Organisation and Architecture  
+  ~ IDEs: Android Studio, VS Code, IntellIj 
 
-- 💬 Ask me about **Dart, C++, Figma**
+ 
 
-- 📫 How to reach me **saurabh2002oct13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gjRyU2jNqqKKW8krSMVXDehJY6UzOFcr/view?usp=share_link](https://drive.google.com/file/d/1gjRyU2jNqqKKW8krSMVXDehJY6UzOFcr/view?usp=share_link)
+- Mail me here: **saurabh2002oct13@gmail.com**
 
-- ⚡ Fun fact **You are the main character.**
+- 📄Resume:  [https://drive.google.com/file/d/1eQzq2LqXsY05jk4MR_crwtS0AsOc1kQ2/view?usp=sharing]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
