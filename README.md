@@ -1,7 +1,7 @@
 <h1 align="center">I'm Saurabh Tripathi</h1>
 <h3 align="center">an Application Developement enthusiast</h3>
 
-- 🔭 I’m currently working on **ConnectSphere**
+- 🔭 I’m currently working on developing **ConnectSphere**
 
 - 🌱I’m currently learning **Spring Boot, React**
 
